@@ -1,0 +1,1 @@
+https://github.com/RobRich999/Chromium_Clang/releases/download/v122.0.6174.0-r1235316-win64-avx2/mini_installer.exe

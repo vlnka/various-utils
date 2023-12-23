@@ -1,0 +1,1 @@
+py "D:\Scripts\ffmpegupdate\7z.py"

@@ -1,0 +1,1 @@
+yt-dlp --update-to nightly
